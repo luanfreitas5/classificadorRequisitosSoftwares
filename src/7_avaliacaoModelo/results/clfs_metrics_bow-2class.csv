@@ -1,0 +1,5 @@
+Classificador;Precisão;Recall;F1-Score;Acurácia;Acurácia Balanceada
+SVM;88.51;88.32;88.34;88.32;88.48
+Floresta Randômica;81.96;81.79;81.83;81.79;81.83
+Perceptron Multicamadas;85.94;85.57;85.61;85.57;85.85
+Regressão Logística;86.24;85.91;85.95;85.91;86.16
