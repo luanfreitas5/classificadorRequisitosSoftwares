@@ -1,0 +1,23 @@
+** tfidf-2 **
+Quantidade de Caracteristicas: 353
+Top 10 Carateristicas: allow, meeting, use, second, player, display, server, class, select, list
+
+** tfidf-11 **
+Quantidade de Caracteristicas: 315
+Top 10 Carateristicas: academic, accordingly, achieve, accommodate, access, able, accounting, abs, acceptable, ability
+
+** tfidf-12 **
+Quantidade de Caracteristicas: 474
+Top 10 Carateristicas: regulation, comply, second, simultaneous, fault, portable, handle, achieve, available, failure
+
+** bow-2 **
+Quantidade de Caracteristicas: 305
+Top 10 Carateristicas: allow, meeting, use, second, access, class, player, clinical, server, application
+
+** bow-11 **
+Quantidade de Caracteristicas: 379
+Top 10 Carateristicas: abs, academic, access, able, accordingly, achieve, accommodate, accounting, ability, acceptable
+
+** bow-12 **
+Quantidade de Caracteristicas: 588
+Top 10 Carateristicas: second, regulation, fault, comply, available, response, time, handle, failure, interface
