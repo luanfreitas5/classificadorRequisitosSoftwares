@@ -1,0 +1,4 @@
+SVM : {'estimator__C': 1, 'estimator__gamma': 1}
+RandomForestClassifier : {'estimator__criterion': 'gini', 'estimator__max_depth': 4, 'estimator__n_estimators': 80}
+MLPClassifier : {'estimator__activation': 'tanh', 'estimator__hidden_layer_sizes': (20,), 'estimator__solver': 'adam'}
+LogisticRegression : {'estimator__C': 1, 'estimator__penalty': 'l2'}

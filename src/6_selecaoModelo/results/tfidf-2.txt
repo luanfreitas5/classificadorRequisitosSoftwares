@@ -1,0 +1,4 @@
+SVM : {'C': 1, 'gamma': 1}
+RandomForestClassifier : {'criterion': 'gini', 'max_depth': 4, 'n_estimators': 80}
+MLPClassifier : {'activation': 'relu', 'hidden_layer_sizes': (20,), 'solver': 'adam'}
+LogisticRegression : {'C': 10, 'penalty': 'l2'}
