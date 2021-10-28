@@ -1,0 +1,17 @@
+** bow-12 **
+Quantidade de Caracteristicas: 300
+
+** bow-11 **
+Quantidade de Caracteristicas: 200
+
+** bow-2 **
+Quantidade de Caracteristicas: 250
+
+** tfidf-12 **
+Quantidade de Caracteristicas: 300
+
+** tfidf-11 **
+Quantidade de Caracteristicas: 200
+
+** tfidf-2 **
+Quantidade de Caracteristicas: 300
